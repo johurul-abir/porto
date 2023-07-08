@@ -209,6 +209,51 @@ const teamMember = [
         
     },
 
+    {
+        id      : 7,
+        photo   : "img/products/product-grey-6.jpg",
+        category: "sports",
+        title   :"Cap",
+        regularPrice: "$20.00",
+        sellPrice: "$15.00",
+        badge:{
+            new:"new",
+            offer: "27%",
+        
+        }
+        
+    },
+
+    {
+        id      : 8,
+        photo   : "img/products/product-grey-8.jpg",
+        category: "Accessories",
+        title   :"Cap",
+        regularPrice: "",
+        sellPrice: "$40.00",
+        badge:{
+            new:"new",
+            offer: "",
+        
+        }
+        
+    },
+
+    {
+        id      : 9,
+        photo   : "img/products/product-grey-9.jpg",
+        category: "Sports",
+        title   :"Ball",
+        regularPrice: "31.00",
+        sellPrice: "$20.00",
+        badge:{
+            new:"new",
+            offer: "27%",
+        
+        }
+        
+    },
+
 
 
 
