@@ -195,7 +195,7 @@ const teamMember = [
     },
 
     {
-        id      : 2,
+        id      : 6,
         photo   : "img/products/product-grey-2.jpg",
         category: "sports",
         title   :"golf Bag",
